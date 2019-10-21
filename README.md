@@ -1,2 +1,2 @@
-# Munuhe.dev.io
+# Munuhe
 blank canvas for a new art!
