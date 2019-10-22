@@ -228,12 +228,12 @@ Primary use:
 
 .size2 {
   width: 100px;
-  height: 1000px;
+  height: 100px;
 }
 
 .size3 {
-  width: 36px;
-  height: 36px;
+  width: 100px;
+  height: 100px;
 }
 
 /*//////////////////////////////////////////////////////////////////
@@ -312,8 +312,6 @@ Primary use:
 
 .wrappic1 img {
   max-width: 45%;
-  box-shadow: 0 0 20px 17px;
-  color: #111;
 }
 
 /*---------------------------------------------*/
